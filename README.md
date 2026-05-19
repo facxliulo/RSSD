@@ -59,9 +59,3 @@ python start_training.py \
     --mode 1                                              # 1=训练, 2=测试
 ```
 ## We will upload the revised version of the paper shortly.
-```bash
-cd "RSSD\main"
-python start_training.py --config options/train/inpating/combined_config.yml
-```
-
-现在问题应该完全解决了！🎉
